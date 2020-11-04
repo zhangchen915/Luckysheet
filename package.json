@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.12.1",
+    "flatpickr": "^4.6.6",
     "jspdf": "^2.1.1"
   },
   "scripts": {
